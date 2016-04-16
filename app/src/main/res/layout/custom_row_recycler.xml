@@ -16,7 +16,9 @@
             android:id="@+id/cardView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_gravity="center"
+            android:layout_gravity="center" >
+
+
             card_view:cardBackgroundColor="@color/Amber"
             card_view:cardCornerRadius="4dp"
             card_view:cardElevation="10dp"

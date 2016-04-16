@@ -12,8 +12,14 @@
     tools:context="com.mylibrary.mylibrary.AddBookActivity"
     tools:showIn="@layout/activity_add_book">
 
+
+
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
+
+
+
 </RelativeLayout>
